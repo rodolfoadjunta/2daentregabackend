@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1685567813254",
+    "products": []
+  },
+  {
+    "id": "1685568003485",
+    "products": [
+      {
+        "productId": "un producto nuevo2",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": "1685568010669",
+    "products": [
+      {
+        "productId": "un producto nuevo3",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "1685568175949",
+    "products": [
+      {
+        "productId": "otroyo4",
+        "quantity": 2
+      },
+      {
+        "productId": "un producto nuevo4",
+        "quantity": 1
+      }
+    ]
+  }
+]
